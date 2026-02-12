@@ -132,7 +132,7 @@ Working with large spatial datasets using R for geographic and statistical model
 
 # 📫 Let's Connect
 
-- 💼 LinkedIn: (Add your link)
+- 💼 LinkedIn: [(Add your link)](https://www.linkedin.com/in/sagar-agarwal-ds/)
 - 📧 Email: (Add your email)
 - 🌐 Portfolio: (Optional)
 
